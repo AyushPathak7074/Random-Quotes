@@ -27,8 +27,8 @@ To use this application, simply open the `index.html` file in a web browser. Cli
 
 ## Screenshots
 
-![Screenshot 1]()
-![Screenshot 2]()
+![Screenshot 2024-07-12 205326](https://github.com/user-attachments/assets/ec6cfecc-5a06-4f17-b19a-a15c212f9085)
+
 
 ## Installation
 
